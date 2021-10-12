@@ -1,2 +1,2 @@
-//javascript app.js
 console.log(log);
+g//javascript app.js
